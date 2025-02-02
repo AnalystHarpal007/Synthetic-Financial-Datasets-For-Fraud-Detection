@@ -1,6 +1,6 @@
 # Synthetic-Financial-Datasets-For-Fraud-Detection
 
-#Project Overview
+**Project Overview**
 This project focuses on detecting fraudulent transactions in a large banking dataset using advanced SQL queries. The dataset, sourced from Kaggle, contains transaction details such as origin and destination accounts, transaction amounts, balances, and fraud indicators. We use SQL techniques like recursive CTEs, window functions, subqueries, and complex joins to identify suspicious activity and validate transaction consistency.
 
 Dataset
