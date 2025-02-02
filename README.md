@@ -33,16 +33,4 @@ This project focuses on detecting fraudulent transactions in a large banking dat
 4. **Balance Validation**:
    - Validates whether computed balances match the actual balances in the dataset.
 
-## Usage
-1. **Load Dataset into MySQL**:
-
-2. **Run SQL Queries**:
-- Open your MySQL client or workbench.
-- Copy and paste the provided SQL queries to detect fraud, validate balances, and perform various other analyses.
-
-## Project Structure
-- `fraud_detection_queries.sql`: Contains all SQL queries used for fraud detection and balance validation.
-- `README.md`: This readme file.
-- `transactions_table.sql`: SQL script to create the `transactions` table used in the project.
-
 
